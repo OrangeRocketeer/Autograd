@@ -30,7 +30,7 @@ pip install numpy graphviz matplotlib scikit-learn
 
 Clone the repository:
 ```bash
-git clone https://github.com/yourusername/autograd-engine.git
+git clone https://github.com/OrangeRocketeer/Autograd.git
 cd autograd-engine
 ```
 
